@@ -1,0 +1,2801 @@
+[
+    {
+        "grade": "Grade_4",
+        "Grade_4": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "Computer basics",
+                    "topic": "MS Word introduction",
+                    "info": "MS Word is a tool that helps us to create documents",
+                    "download": [
+                        "/content/Grade_4/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "Computer basics",
+                    "topic": "Write an essay project in MS Word/Google doc",
+                    "info": "Write an essay project in MS Word/Google doc",
+                    "download": [
+                        "/content/Grade_4/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "Computer basics",
+                    "topic": "Write about your school project",
+                    "info": "Write about your school project",
+                    "download": [
+                        "/content/Grade_4/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "Computer basics",
+                    "topic": "Introduction to computer Excel/Google Sheet",
+                    "info": "Introduction to computer Excel/Google Sheet",
+                    "download": [
+                        "/content/Grade_4/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "Computer basics",
+                    "topic": "Arithmetic operations",
+                    "info": "Arithmetic operations",
+                    "download": [
+                        "/content/Grade_4/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "Computer basics",
+                    "topic": "Writing table and linking cells",
+                    "info": "Writing table and linking cells",
+                    "download": [
+                        "/content/Grade_4/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "Computer basics",
+                    "topic": "House expenses analysis project in Excel/Google Sheet",
+                    "info": "House expenses analysis project in Excel/Google Sheet",
+                    "download": [
+                        "/content/Grade_4/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "Computer basics",
+                    "topic": "Analysis and discussion of house project",
+                    "info": "Analysis and discussion of house project",
+                    "download": [
+                        "/content/Grade_4/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "Computer basics",
+                    "topic": "Introduction to PPT/Google Slide",
+                    "info": "Introduction to PPT/Google Slide",
+                    "download": [
+                        "/content/Grade_4/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "Computer basics",
+                    "topic": "Shapes and texts",
+                    "info": "Shapes and texts",
+                    "download": [
+                        "/content/Grade_4/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "Computer basics",
+                    "topic": "Alignments",
+                    "info": "Alignments",
+                    "download": [
+                        "/content/Grade_4/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "Computer basics",
+                    "topic": "Presentation on House expenses analysis project",
+                    "info": "Presentation on House expenses analysis project",
+                    "download": [
+                        "/content/Grade_4/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "Game Development",
+                    "topic": "Drag and drop based bounce game",
+                    "info": "Drag and drop based bounce game",
+                    "download": [
+                        "/content/Grade_4/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "Game Development",
+                    "topic": "Customize bounce game",
+                    "info": "Customize bounce game",
+                    "download": [
+                        "/content/Grade_4/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "Game Development",
+                    "topic": "Bird strike game",
+                    "info": "Bird strike game",
+                    "download": [
+                        "/content/Grade_4/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "Game Development",
+                    "topic": "Customize Bird strike game",
+                    "info": "Customize Bird strike game",
+                    "download": [
+                        "/content/Grade_4/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "Game Development",
+                    "topic": "Customize Bird strike game",
+                    "info": "Customize Bird strike game",
+                    "download": [
+                        "/content/Grade_4/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "Game Development",
+                    "topic": "Analyze logics",
+                    "info": "Analyze logics",
+                    "download": [
+                        "/content/Grade_4/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "Game Development",
+                    "topic": "Analyze logics",
+                    "info": "Analyze logics",
+                    "download": [
+                        "/content/Grade_4/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "App Development",
+                    "topic": "Currency converter app",
+                    "info": "Currency converter app",
+                    "download": [
+                        "/content/Grade_4/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "App Development",
+                    "topic": "Year to days converter app",
+                    "info": "Year to days converter app",
+                    "download": [
+                        "/content/Grade_4/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "App Development",
+                    "topic": "Calculator",
+                    "info": "Calculator",
+                    "download": [
+                        "/content/Grade_4/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "App Development",
+                    "topic": "Customize Calculator App",
+                    "info": "Customize Calculator App",
+                    "download": [
+                        "/content/Grade_4/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "App Development",
+                    "topic": "Customize Calculator App",
+                    "info": "Customize Calculator App",
+                    "download": [
+                        "/content/Grade_4/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "App Development",
+                    "topic": "Analyze logics",
+                    "info": "Analyze logics",
+                    "download": [
+                        "/content/Grade_4/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "App Development",
+                    "topic": "Analyze logics",
+                    "info": "Analyze logics",
+                    "download": [
+                        "/content/Grade_4/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "3D Modeling",
+                    "topic": "Introduction to block based 3D modeling",
+                    "info": "Introduction to block based 3D modeling",
+                    "download": [
+                        "/content/Grade_4/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "3D Modeling",
+                    "topic": "Exploring shapes",
+                    "info": "Exploring shapes",
+                    "download": [
+                        "/content/Grade_4/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "3D Modeling",
+                    "topic": "Exploring dimensions",
+                    "info": "Exploring dimensions",
+                    "download": [
+                        "/content/Grade_4/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "3D Modeling",
+                    "topic": "Creating icecream project",
+                    "info": "Creating icecream project",
+                    "download": [
+                        "/content/Grade_4/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "3D Modeling",
+                    "topic": "Discussion on project",
+                    "info": "Discussion on project",
+                    "download": [
+                        "/content/Grade_4/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "3D Modeling",
+                    "topic": "3D modeling icecream project 3d printing exploration",
+                    "info": "3D modeling icecream project 3d printing exploration",
+                    "download": [
+                        "/content/Grade_4/32/32.pdf"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "grade": "Grade_5",
+        "Grade_5": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "Computer Basics",
+                    "topic": "Introducing to computer MS Word/Google Doc",
+                    "info": "Introduction to computer MS Word/Google Doc",
+                    "download": [
+                        "/content/Grade_5/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "Computer Basics",
+                    "topic": "Write an essay project in MS Word/Google doc",
+                    "info": "Write an essay project in MS Word/Google doc",
+                    "download": [
+                        "/content/Grade_5/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "Computer Basics",
+                    "topic": "Introduction to computer Excel/Google Sheet",
+                    "info": "Introduction to computer Excel/Google Sheet",
+                    "download": [
+                        "/content/Grade_5/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "Computer Basics",
+                    "topic": "House expenses analysis project in Excel/Google Sheet",
+                    "info": "House expenses analysis project in Excel/Google Sheet",
+                    "download": [
+                        "/content/Grade_5/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "Computer Basics",
+                    "topic": "Introducing to PPT/Google Slide",
+                    "info": "Introduction to PPT/Google Slide",
+                    "download": [
+                        "/content/Grade_5/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "Computer Basics",
+                    "topic": "Presentation on House expenses analysis project",
+                    "info": "Presentation on House expenses analysis project",
+                    "download": [
+                        "/content/Grade_5/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "Game Development",
+                    "topic": "Drag and drop based bounce game",
+                    "info": "Drag and drop based bounce game",
+                    "download": [
+                        "/content/Grade_5/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "Game Development",
+                    "topic": "Customize bounce game",
+                    "info": "Customize bounce game",
+                    "download": [
+                        "/content/Grade_5/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "Game Development",
+                    "topic": "Bird strike game",
+                    "info": "Bird strike game",
+                    "download": [
+                        "/content/Grade_5/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "Game Development",
+                    "topic": "Customize Bird strike game",
+                    "info": "Customize Bird strike game",
+                    "download": [
+                        "/content/Grade_5/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "App Development",
+                    "topic": "Currency converter app",
+                    "info": "Currency converter app",
+                    "download": [
+                        "/content/Grade_5/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "App Development",
+                    "topic": "Year to days converter app",
+                    "info": "Year to days converter app",
+                    "download": [
+                        "/content/Grade_5/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "App Development",
+                    "topic": "Calculator",
+                    "info": "Calculator",
+                    "download": [
+                        "/content/Grade_5/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "App Development",
+                    "topic": "Customize Calculator App",
+                    "info": "Customize Calculator App",
+                    "download": [
+                        "/content/Grade_5/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "IoT simulation",
+                    "topic": "Introduction to IoT",
+                    "info": "Introduction to IoT",
+                    "download": [
+                        "/content/Grade_5/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "IoT simulation",
+                    "topic": "LED automation simulation",
+                    "info": "LED automation simulation",
+                    "download": [
+                        "/content/Grade_5/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "IoT simulation",
+                    "topic": "Multiple LED automation",
+                    "info": "Multiple LED automation",
+                    "download": [
+                        "/content/Grade_5/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "IoT simulation",
+                    "topic": "Introduction to motion sensor",
+                    "info": "Introduction to motion sensor",
+                    "download": [
+                        "/content/Grade_5/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "IoT simulation",
+                    "topic": "Security alarm automation",
+                    "info": "Security alarm automation",
+                    "download": [
+                        "/content/Grade_5/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "IoT simulation",
+                    "topic": "Security alarm system prototype exploration",
+                    "info": "Security alarm system prototype exploration",
+                    "download": [
+                        "/content/Grade_5/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "IoT simulation",
+                    "topic": "Introduction to distance sensor",
+                    "info": "Introduction to distance sensor",
+                    "download": [
+                        "/content/Grade_5/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "IoT simulation",
+                    "topic": "Automatic dustbin simulation",
+                    "info": "Automatic dustbin simulation",
+                    "download": [
+                        "/content/Grade_5/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "IoT simulation",
+                    "topic": "Automatic dustbin prototype exploration",
+                    "info": "Automatic dustbin prototype exploration",
+                    "download": [
+                        "/content/Grade_5/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "3D modeling",
+                    "topic": "Introduction to block based 3D modeling",
+                    "info": "Introduction to block based 3D modeling",
+                    "download": [
+                        "/content/Grade_5/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "3D modeling",
+                    "topic": "Exploring shapes",
+                    "info": "Exploring shapes",
+                    "download": [
+                        "/content/Grade_5/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "3D modeling",
+                    "topic": "Creating icecream project",
+                    "info": "Creating icecream project",
+                    "download": [
+                        "/content/Grade_5/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "3D modeling",
+                    "topic": "Discussion on project",
+                    "info": "Discussion on project",
+                    "download": [
+                        "/content/Grade_5/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "3D modeling",
+                    "topic": "3D modeling icecream project 3d printing exploration",
+                    "info": "3D modeling icecream project 3d printing exploration",
+                    "download": [
+                        "/content/Grade_5/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "Web Development",
+                    "topic": "Writing name and title in website and open in google chrome",
+                    "info": "Writing name and title in website and open in google chrome",
+                    "download": [
+                        "/content/Grade_5/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "Web Development",
+                    "topic": "Change the title, write heading, paragraph, and buttons",
+                    "info": "Change the title, write heading, paragraph, and buttons",
+                    "download": [
+                        "/content/Grade_5/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "Web Development",
+                    "topic": "Experimentation with variations",
+                    "info": "Experimentation with variations",
+                    "download": [
+                        "/content/Grade_5/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "Web Development",
+                    "topic": "Create a website for your family - HTML",
+                    "info": "Create a website for your family - HTML",
+                    "download": [
+                        "/content/Grade_5/32/32.pdf"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "grade": "Grade_6",
+        "Grade_6": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "Computer Basics",
+                    "topic": "Import weather data into excel",
+                    "info": "Import weather data into excel",
+                    "download": [
+                        "/content/Grade_6/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "Computer Basics",
+                    "topic": "Understanding plots and graphs - Plot the variations",
+                    "info": "Understanding plots and graphs - Plot the variations",
+                    "download": [
+                        "/content/Grade_6/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "Computer Basics",
+                    "topic": "Understanding plots and graphs - Plot the variations",
+                    "info": "Understanding plots and graphs - Plot the variations",
+                    "download": [
+                        "/content/Grade_6/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "Computer Basics",
+                    "topic": "Creating a pdf report of analysis in Google Doc",
+                    "info": "Creating a pdf report of analysis in Google Doc",
+                    "download": [
+                        "/content/Grade_6/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "Computer Basics",
+                    "topic": "Creating a PPT presentation on analysis",
+                    "info": "Creating a PPT presentation on analysis",
+                    "download": [
+                        "/content/Grade_6/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "Computer Basics",
+                    "topic": "Analyzing the various use cases of excel, doc, & ppts",
+                    "info": "Analyzing the various use cases of excel, doc, & ppts",
+                    "download": [
+                        "/content/Grade_6/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "Game Development",
+                    "topic": "Drag and drop based bounce game",
+                    "info": "Drag and drop based bounce game",
+                    "download": [
+                        "/content/Grade_6/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "Game Development",
+                    "topic": "Code customization for variations in bounce game",
+                    "info": "Code customization for variations in bounce game",
+                    "download": [
+                        "/content/Grade_6/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "Game Development",
+                    "topic": "Make a report on potential of coding logics",
+                    "info": "Make a report on potential of coding logics",
+                    "download": [
+                        "/content/Grade_6/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "Game Development",
+                    "topic": "Analyzing the various use cases of coding logics",
+                    "info": "Analyzing the various use cases of coding logics",
+                    "download": [
+                        "/content/Grade_6/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "App Development",
+                    "topic": "Create a currency converter app",
+                    "info": "Create a currency converter app",
+                    "download": [
+                        "/content/Grade_6/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "App Development",
+                    "topic": "Improve the Front-end of the app",
+                    "info": "Improve the Front-end of the app",
+                    "download": [
+                        "/content/Grade_6/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "App Development",
+                    "topic": "Make a report on potential of coding logics",
+                    "info": "Make a report on potential of coding logics",
+                    "download": [
+                        "/content/Grade_6/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "App Development",
+                    "topic": "Analyzing the various use cases of coding logics",
+                    "info": "Analyzing the various use cases of coding logics",
+                    "download": [
+                        "/content/Grade_6/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "IoT simulation",
+                    "topic": "LED automation simulation",
+                    "info": "LED automation simulation",
+                    "download": [
+                        "/content/Grade_6/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "IoT simulation",
+                    "topic": "Dancing LED automation simulation",
+                    "info": "Dancing LED automation simulation",
+                    "download": [
+                        "/content/Grade_6/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "IoT simulation",
+                    "topic": "Analyzing the various use cases of code based automation",
+                    "info": "Analyzing the various use cases of code based automation",
+                    "download": [
+                        "/content/Grade_6/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "IoT simulation",
+                    "topic": "Introduction to motion sensor simulation",
+                    "info": "Introduction to motion sensor simulation",
+                    "download": [
+                        "/content/Grade_6/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "IoT simulation",
+                    "topic": "Automatic dustbin simulation",
+                    "info": "Automatic dustbin simulation",
+                    "download": [
+                        "/content/Grade_6/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "IoT simulation",
+                    "topic": "Build an automatic dustbin",
+                    "info": "Build an automatic dustbin",
+                    "download": [
+                        "/content/Grade_6/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "IoT simulation",
+                    "topic": "Build an automatic dustbin",
+                    "info": "Build an automatic dustbin",
+                    "download": [
+                        "/content/Grade_6/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "IoT simulation",
+                    "topic": "Build an automatic dustbin",
+                    "info": "Build an automatic dustbin",
+                    "download": [
+                        "/content/Grade_6/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "IoT simulation",
+                    "topic": "Analyzing the various use cases of Sensor automation",
+                    "info": "Analyzing the various use cases of Sensor automation",
+                    "download": [
+                        "/content/Grade_6/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "3D modeling",
+                    "topic": "Build a 3D model of your interest",
+                    "info": "Build a 3D model of your interest",
+                    "download": [
+                        "/content/Grade_6/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "3D modeling",
+                    "topic": "Introduction to 3D printer & its software",
+                    "info": "Introduction to 3D printer & its software",
+                    "download": [
+                        "/content/Grade_6/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "3D modeling",
+                    "topic": "Introduction to process & 3D printing of the model",
+                    "info": "Introduction to process & 3D printing of the model",
+                    "download": [
+                        "/content/Grade_6/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "3D modeling",
+                    "topic": "Introduction to process & 3D printing of the model",
+                    "info": "Introduction to process & 3D printing of the model",
+                    "download": [
+                        "/content/Grade_6/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "3D modeling",
+                    "topic": "Analyzing the various use cases of 3D printing",
+                    "info": "Analyzing the various use cases of 3D printing",
+                    "download": [
+                        "/content/Grade_6/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "Web Development",
+                    "topic": "Create an HTML page with paragraph, heading, buttons, images",
+                    "info": "Create an HTML page with paragraph, heading, buttons, images",
+                    "download": [
+                        "/content/Grade_6/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "Web Development",
+                    "topic": "Introduction to CSS - Position, font size, border, padding",
+                    "info": "Introduction to CSS - Position, font size, border, padding",
+                    "download": [
+                        "/content/Grade_6/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "Web Development",
+                    "topic": "Introduction to CSS - Position, font size, border, padding",
+                    "info": "Introduction to CSS - Position, font size, border, padding",
+                    "download": [
+                        "/content/Grade_6/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "Web Development",
+                    "topic": "Create a birthday theme website using HTML & CSS",
+                    "info": "Create a birthday theme website using HTML & CSS",
+                    "download": [
+                        "/content/Grade_6/32/32.pdf"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "grade": "Grade_7",
+        "Grade_7": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "Qbot code module",
+                    "topic": "Introducing Qwings Qbot",
+                    "info": "Introducing Qwings Qbot",
+                    "download": [
+                        "/content/Grade_7/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "Qbot code module",
+                    "topic": "Introducing coding through Qbot code module",
+                    "info": "Introducing coding through Qbot code module",
+                    "download": [
+                        "/content/Grade_7/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "Qbot code module",
+                    "topic": "Tinkering the code module",
+                    "info": "Tinkering the code module",
+                    "download": [
+                        "/content/Grade_7/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "Qbot sensor module",
+                    "topic": "Coding for sensors using Qbot sensor module",
+                    "info": "Coding for sensors using Qbot sensor module",
+                    "download": [
+                        "/content/Grade_7/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "Qbot sensor module",
+                    "topic": "Tinkering the code for sensor module",
+                    "info": "Tinkering the code for sensor module",
+                    "download": [
+                        "/content/Grade_7/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "Qbot sensor module",
+                    "topic": "Tinkering the code for sensor module",
+                    "info": "Tinkering the code for sensor module",
+                    "download": [
+                        "/content/Grade_7/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "Qbot voice module",
+                    "topic": "Coding for voice based automation using Qbot voice module",
+                    "info": "Coding for voice based automation using Qbot voice module",
+                    "download": [
+                        "/content/Grade_7/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "Qbot voice module",
+                    "topic": "Tinkering the code for voice module",
+                    "info": "Tinkering the code for voice module",
+                    "download": [
+                        "/content/Grade_7/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "Qbot voice module",
+                    "topic": "Tinkering the code for voice module",
+                    "info": "Tinkering the code for voice module",
+                    "download": [
+                        "/content/Grade_7/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Coding for Bluetooth based automation using Qbot bluetooth module",
+                    "info": "Coding for Bluetooth based automation using Qbot bluetooth module",
+                    "download": [
+                        "/content/Grade_7/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Tinkering the code for bluetooth module",
+                    "info": "Tinkering the code for bluetooth module",
+                    "download": [
+                        "/content/Grade_7/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Tinkering the code for bluetooth module",
+                    "info": "Tinkering the code for bluetooth module",
+                    "download": [
+                        "/content/Grade_7/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "Qbot AI module",
+                    "topic": "Coding for AI based automation using Qbot AI module",
+                    "info": "Coding for AI based automation using Qbot AI module",
+                    "download": [
+                        "/content/Grade_7/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "Qbot AI module",
+                    "topic": "Tinkering the code for AI module",
+                    "info": "Tinkering the code for AI module",
+                    "download": [
+                        "/content/Grade_7/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "Qbot AI module",
+                    "topic": "Tinkering the code for AI module",
+                    "info": "Tinkering the code for AI module",
+                    "download": [
+                        "/content/Grade_7/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "Qbot AI module",
+                    "topic": "Tinkering the code for AI module",
+                    "info": "Tinkering the code for AI module",
+                    "download": [
+                        "/content/Grade_7/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "Web development",
+                    "topic": "Build one page website Using HTML CSS",
+                    "info": "Build one page website Using HTML CSS",
+                    "download": [
+                        "/content/Grade_7/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "Web development",
+                    "topic": "Build one page website using HTML CSS",
+                    "info": "Build one page website using HTML CSS",
+                    "download": [
+                        "/content/Grade_7/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "Web development",
+                    "topic": "Build two page website - Login page front-end as second page",
+                    "info": "Build two page website - Login page front-end as second page",
+                    "download": [
+                        "/content/Grade_7/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "Web development",
+                    "topic": "Build two page website - Login page front-end as second page",
+                    "info": "Build two page website - Login page front-end as second page",
+                    "download": [
+                        "/content/Grade_7/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "Web development",
+                    "topic": "Build two page website - Login page front-end as second page",
+                    "info": "Build two page website - Login page front-end as second page",
+                    "download": [
+                        "/content/Grade_7/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "Python",
+                    "topic": "Build chatbot",
+                    "info": "Build chatbot",
+                    "download": [
+                        "/content/Grade_7/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "Python",
+                    "topic": "Build chatbot",
+                    "info": "Build chatbot",
+                    "download": [
+                        "/content/Grade_7/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "Results & Discussions",
+                    "topic": "Python",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_7/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "Python",
+                    "topic": "Build calculator",
+                    "info": "Build calculator",
+                    "download": [
+                        "/content/Grade_7/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "Python",
+                    "topic": "Build calculator",
+                    "info": "Build calculator",
+                    "download": [
+                        "/content/Grade_7/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "Python",
+                    "topic": "Build calculator",
+                    "info": "Build calculator",
+                    "download": [
+                        "/content/Grade_7/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "Python",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_7/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "Excel based Data Science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_7/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "Excel based Data Science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_7/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "Excel based Data Science",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_7/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "Excel based Data Science",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_7/32/32.pdf"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "grade": "Grade_8",
+        "Grade_8": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "Qbot code module",
+                    "topic": "Introducing Qwings Qbot",
+                    "info": "Introducing Qwings Qbot",
+                    "download": [
+                        "/content/Grade_8/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "Qbot code module",
+                    "topic": "Introducing coding through Qbot code module",
+                    "info": "Introducing coding through Qbot code module",
+                    "download": [
+                        "/content/Grade_8/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "Qbot code module",
+                    "topic": "Tinkering the code module",
+                    "info": "Tinkering the code module",
+                    "download": [
+                        "/content/Grade_8/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "Qbot code module",
+                    "topic": "Recreate Qbot code modules in computer simulations",
+                    "info": "Recreate Qbot code modules in computer simulations",
+                    "download": [
+                        "/content/Grade_8/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "Qbot code module",
+                    "topic": "Build Qbot code modules from scratch using",
+                    "info": "Build Qbot code modules from scratch using",
+                    "download": [
+                        "/content/Grade_8/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "Qbot code module",
+                    "topic": "Build Qbot code modules from scratch using",
+                    "info": "Build Qbot code modules from scratch using",
+                    "download": [
+                        "/content/Grade_8/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "Qbot code module",
+                    "topic": "Analyzing the various use cases of code modules",
+                    "info": "Analyzing the various use cases of code modules",
+                    "download": [
+                        "/content/Grade_8/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "Qbot code module",
+                    "topic": "Build a project based on code module",
+                    "info": "Build a project based on code module",
+                    "download": [
+                        "/content/Grade_8/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "Qbot sensor module",
+                    "topic": "Coding for sensors using Qbot sensor module",
+                    "info": "Coding for sensors using Qbot sensor module",
+                    "download": [
+                        "/content/Grade_8/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "Qbot sensor module",
+                    "topic": "Tinkering the code for sensor module",
+                    "info": "Tinkering the code for sensor module",
+                    "download": [
+                        "/content/Grade_8/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "Qbot sensor module",
+                    "topic": "Recreate Qbot sensor modules in computer simulations",
+                    "info": "Recreate Qbot sensor modules in computer simulations",
+                    "download": [
+                        "/content/Grade_8/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "Qbot sensor module",
+                    "topic": "Build Qbot sensor modules from scratch using",
+                    "info": "Build Qbot sensor modules from scratch using",
+                    "download": [
+                        "/content/Grade_8/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "Qbot sensor module",
+                    "topic": "Build Qbot sensor modules from scratch using",
+                    "info": "Build Qbot sensor modules from scratch using",
+                    "download": [
+                        "/content/Grade_8/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "Qbot sensor module",
+                    "topic": "Analyzing the various use cases of sensor modules",
+                    "info": "Analyzing the various use cases of sensor modules",
+                    "download": [
+                        "/content/Grade_8/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "Qbot sensor module",
+                    "topic": "Build a project based on sensor module",
+                    "info": "Build a project based on sensor module",
+                    "download": [
+                        "/content/Grade_8/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "Qbot sensor module",
+                    "topic": "Build a project based on sensor module",
+                    "info": "Build a project based on sensor module",
+                    "download": [
+                        "/content/Grade_8/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "Web development",
+                    "topic": "Build two page website - HTML, CSS",
+                    "info": "Build two page website - HTML, CSS",
+                    "download": [
+                        "/content/Grade_8/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "Web development",
+                    "topic": "Build two page website - Mobile view optimization (Bootstrap)",
+                    "info": "Build two page website - Mobile view optimization (Bootstrap)",
+                    "download": [
+                        "/content/Grade_8/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "Web development",
+                    "topic": "Build two page website - Mobile view optimization (Bootstrap)",
+                    "info": "Build two page website - Mobile view optimization (Bootstrap)",
+                    "download": [
+                        "/content/Grade_8/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "Web development",
+                    "topic": "Build two page website - Mobile view optimization (Bootstrap)",
+                    "info": "Build two page website - Mobile view optimization (Bootstrap)",
+                    "download": [
+                        "/content/Grade_8/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "Web development",
+                    "topic": "Build two page website - Mobile view optimization (Bootstrap)",
+                    "info": "Build two page website - Mobile view optimization (Bootstrap)",
+                    "download": [
+                        "/content/Grade_8/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "Python",
+                    "topic": "Build hangman game",
+                    "info": "Build hangman game",
+                    "download": [
+                        "/content/Grade_8/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "Python",
+                    "topic": "Build hangman game",
+                    "info": "Build hangman game",
+                    "download": [
+                        "/content/Grade_8/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "Python",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_8/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "Python",
+                    "topic": "Read a excel file in python",
+                    "info": "Read a excel file in python",
+                    "download": [
+                        "/content/Grade_8/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "Python",
+                    "topic": "Read a excel file in python",
+                    "info": "Read a excel file in python",
+                    "download": [
+                        "/content/Grade_8/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "Python",
+                    "topic": "Read a notepad file in python",
+                    "info": "Read a notepad file in python",
+                    "download": [
+                        "/content/Grade_8/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "Python",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_8/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "Excel based Data Science",
+                    "topic": "Gold rate price prediction",
+                    "info": "Gold rate price prediction",
+                    "download": [
+                        "/content/Grade_8/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "Excel based Data Science",
+                    "topic": "Gold rate price prediction",
+                    "info": "Gold rate price prediction",
+                    "download": [
+                        "/content/Grade_8/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "Excel based Data Science",
+                    "topic": "Trend line variations & Its effect",
+                    "info": "Trend line variations & Its effect",
+                    "download": [
+                        "/content/Grade_8/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "Excel based Data Science",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_8/32/32.pdf"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "grade": "Grade_9",
+        "Grade_9": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "Qbot voice module",
+                    "topic": "Qbot voice based module",
+                    "info": "Qbot voice based module",
+                    "download": [
+                        "/content/Grade_9/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "Qbot voice module",
+                    "topic": "Tinkering the code for voice module",
+                    "info": "Tinkering the code for voice module",
+                    "download": [
+                        "/content/Grade_9/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "Qbot voice module",
+                    "topic": "Recreate Qbot voice modules in computer simulations",
+                    "info": "Recreate Qbot voice modules in computer simulations",
+                    "download": [
+                        "/content/Grade_9/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "Qbot voice module",
+                    "topic": "Build Qbot voice modules from scratch",
+                    "info": "Build Qbot voice modules from scratch",
+                    "download": [
+                        "/content/Grade_9/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "Qbot voice module",
+                    "topic": "Build Qbot voice modules from scratch",
+                    "info": "Build Qbot voice modules from scratch",
+                    "download": [
+                        "/content/Grade_9/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "Qbot voice module",
+                    "topic": "Analyzing the various use cases of voice modules",
+                    "info": "Analyzing the various use cases of voice modules",
+                    "download": [
+                        "/content/Grade_9/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "Qbot voice module",
+                    "topic": "Build a project based on voice module",
+                    "info": "Build a project based on voice module",
+                    "download": [
+                        "/content/Grade_9/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "Qbot voice module",
+                    "topic": "Build a project based on voice module",
+                    "info": "Build a project based on voice module",
+                    "download": [
+                        "/content/Grade_9/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Qbot bluetooth based module",
+                    "info": "Qbot bluetooth based module",
+                    "download": [
+                        "/content/Grade_9/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Tinkering the code for bluetooth module",
+                    "info": "Tinkering the code for bluetooth module",
+                    "download": [
+                        "/content/Grade_9/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Recreate Qbot bluetooth modules in computer simulations",
+                    "info": "Recreate Qbot bluetooth modules in computer simulations",
+                    "download": [
+                        "/content/Grade_9/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Build Qbot bluetooth modules from scratch",
+                    "info": "Build Qbot bluetooth modules from scratch",
+                    "download": [
+                        "/content/Grade_9/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Build Qbot bluetooth modules from scratch",
+                    "info": "Build Qbot bluetooth modules from scratch",
+                    "download": [
+                        "/content/Grade_9/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Analyzing the various use cases of bluetooth modules",
+                    "info": "Analyzing the various use cases of bluetooth modules",
+                    "download": [
+                        "/content/Grade_9/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Build a project based on bluetooth module",
+                    "info": "Build a project based on bluetooth module",
+                    "download": [
+                        "/content/Grade_9/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "Qbot bluetooth module",
+                    "topic": "Build a project based on bluetooth module",
+                    "info": "Build a project based on bluetooth module",
+                    "download": [
+                        "/content/Grade_9/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "Website Development",
+                    "topic": "Build one page website - Login Page",
+                    "info": "Build one page website - Login Page",
+                    "download": [
+                        "/content/Grade_9/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "Website Development",
+                    "topic": "Build MySql Database - For Login Page",
+                    "info": "Build MySql Database - For Login Page",
+                    "download": [
+                        "/content/Grade_9/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "Website Development",
+                    "topic": "Build MySql Database - For Login Page",
+                    "info": "Build MySql Database - For Login Page",
+                    "download": [
+                        "/content/Grade_9/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "Website Development",
+                    "topic": "CRUD operation",
+                    "info": "CRUD operation",
+                    "download": [
+                        "/content/Grade_9/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "Website Development",
+                    "topic": "CRUD operation",
+                    "info": "CRUD operation",
+                    "download": [
+                        "/content/Grade_9/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Host your website on server",
+                    "info": "Host your website on server",
+                    "download": [
+                        "/content/Grade_9/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Host your website on server",
+                    "info": "Host your website on server",
+                    "download": [
+                        "/content/Grade_9/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Making changes on live server",
+                    "info": "Making changes on live server",
+                    "download": [
+                        "/content/Grade_9/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Making changes on live server",
+                    "info": "Making changes on live server",
+                    "download": [
+                        "/content/Grade_9/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_9/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "Python based data science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_9/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "Python based data science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_9/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "Python based data science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_9/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "Python based data science",
+                    "topic": "Gold rate price prediction",
+                    "info": "Gold rate price prediction",
+                    "download": [
+                        "/content/Grade_9/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "Python based data science",
+                    "topic": "Gold rate price prediction",
+                    "info": "Gold rate price prediction",
+                    "download": [
+                        "/content/Grade_9/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "Python based data science",
+                    "topic": "Gold rate price prediction",
+                    "info": "Gold rate price prediction",
+                    "download": [
+                        "/content/Grade_9/32/32.pdf"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "grade": "Grade_10",
+        "Grade_10": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "Qbot sensor module",
+                    "topic": "Hybrid Coding for Multi sensors using Qbot sensor module",
+                    "info": "Hybrid Coding for Multi sensors using Qbot sensor module",
+                    "download": [
+                        "/content/Grade_10/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "Qbot sensor module",
+                    "topic": "Tinkering the code for sensor module",
+                    "info": "Tinkering the code for sensor module",
+                    "download": [
+                        "/content/Grade_10/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "Qbot sensor module",
+                    "topic": "Recreate Qbot sensor modules in computer simulations",
+                    "info": "Recreate Qbot sensor modules in computer simulations",
+                    "download": [
+                        "/content/Grade_10/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "Qbot sensor module",
+                    "topic": "Build Qbot sensor modules from scratch",
+                    "info": "Build Qbot sensor modules from scratch",
+                    "download": [
+                        "/content/Grade_10/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "Qbot sensor module",
+                    "topic": "Build Qbot sensor modules from scratch",
+                    "info": "Build Qbot sensor modules from scratch",
+                    "download": [
+                        "/content/Grade_10/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "Qbot sensor module",
+                    "topic": "Analyzing the various use cases of sensor modules",
+                    "info": "Analyzing the various use cases of sensor modules",
+                    "download": [
+                        "/content/Grade_10/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "Qbot sensor module",
+                    "topic": "Build a project based on sensor module",
+                    "info": "Build a project based on sensor module",
+                    "download": [
+                        "/content/Grade_10/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "Qbot sensor module",
+                    "topic": "Build a project based on sensor module",
+                    "info": "Build a project based on sensor module",
+                    "download": [
+                        "/content/Grade_10/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "Qbot AI module",
+                    "topic": "Coding for AI using Qbot AI module",
+                    "info": "Coding for AI using Qbot AI module",
+                    "download": [
+                        "/content/Grade_10/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "Qbot AI module",
+                    "topic": "Tinkering the code for AI module",
+                    "info": "Tinkering the code for AI module",
+                    "download": [
+                        "/content/Grade_10/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "Qbot AI module",
+                    "topic": "Recreate Qbot AI modules in computer simulations",
+                    "info": "Recreate Qbot AI modules in computer simulations",
+                    "download": [
+                        "/content/Grade_10/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "Qbot AI module",
+                    "topic": "Build Qbot AI modules from scratch",
+                    "info": "Build Qbot AI modules from scratch",
+                    "download": [
+                        "/content/Grade_10/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "Qbot AI module",
+                    "topic": "Build Qbot AI modules from scratch",
+                    "info": "Build Qbot AI modules from scratch",
+                    "download": [
+                        "/content/Grade_10/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "Qbot AI module",
+                    "topic": "Analyzing the various use cases of AI modules",
+                    "info": "Analyzing the various use cases of AI modules",
+                    "download": [
+                        "/content/Grade_10/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "Qbot AI module",
+                    "topic": "Build a project based on AI module",
+                    "info": "Build a project based on AI module",
+                    "download": [
+                        "/content/Grade_10/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "Qbot AI module",
+                    "topic": "Build a project based on AI module",
+                    "info": "Build a project based on AI module",
+                    "download": [
+                        "/content/Grade_10/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "Website Development",
+                    "topic": "Build one page website - Login Page",
+                    "info": "Build one page website - Login Page",
+                    "download": [
+                        "/content/Grade_10/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "Website Development",
+                    "topic": "Build MySql Database - For Login Page",
+                    "info": "Build MySql Database - For Login Page",
+                    "download": [
+                        "/content/Grade_10/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "Website Development",
+                    "topic": "Connecting frontend to database",
+                    "info": "Connecting frontend to database",
+                    "download": [
+                        "/content/Grade_10/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "Website Development",
+                    "topic": "Connecting frontend to database",
+                    "info": "Connecting frontend to database",
+                    "download": [
+                        "/content/Grade_10/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "Website Development",
+                    "topic": "Completing Login page",
+                    "info": "Completing Login page",
+                    "download": [
+                        "/content/Grade_10/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Introduction to AWS",
+                    "info": "Introduction to AWS",
+                    "download": [
+                        "/content/Grade_10/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Introduction to github",
+                    "info": "Introduction to github",
+                    "download": [
+                        "/content/Grade_10/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Git operations",
+                    "info": "Git operations",
+                    "download": [
+                        "/content/Grade_10/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Deploy website",
+                    "info": "Deploy website",
+                    "download": [
+                        "/content/Grade_10/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_10/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "Python based data science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_10/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "Python based data science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_10/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "Python based data science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_10/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "Python based data science",
+                    "topic": "Weather prediction",
+                    "info": "Weather prediction",
+                    "download": [
+                        "/content/Grade_10/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "Python based data science",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_10/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "Python based data science",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_10/32/32.pdf"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "grade": "Grade_11",
+        "Grade_11": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Discuss startup stories - Caratlane business Idea",
+                    "info": "Discuss startup stories - Caratlane business Idea",
+                    "download": [
+                        "/content/Grade_11/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Explore a real world problem - IoT related",
+                    "info": "Explore a real world problem - IoT related",
+                    "download": [
+                        "/content/Grade_11/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Create a presentation on potential solutions",
+                    "info": "Create a presentation on potential solutions",
+                    "download": [
+                        "/content/Grade_11/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Create a presentation on target audience total available market",
+                    "info": "Create a presentation on target audience total available market",
+                    "download": [
+                        "/content/Grade_11/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Create a startup pitch deck",
+                    "info": "Create a startup pitch deck",
+                    "download": [
+                        "/content/Grade_11/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Discuss the pitch deck",
+                    "info": "Discuss the pitch deck",
+                    "download": [
+                        "/content/Grade_11/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_11/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_11/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_11/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_11/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_11/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_11/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_11/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_11/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Create a video presentation on the product",
+                    "info": "Create a video presentation on the product",
+                    "download": [
+                        "/content/Grade_11/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "IoT - Startup Ideation",
+                    "topic": "Pitch the Idea",
+                    "info": "Pitch the Idea",
+                    "download": [
+                        "/content/Grade_11/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "Website Development",
+                    "topic": "Build a Full stack website project HTML, CSS, php, Mysql",
+                    "info": "Build a Full stack website project HTML, CSS, php, Mysql",
+                    "download": [
+                        "/content/Grade_11/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "Website Development",
+                    "topic": "Build a Full stack website project HTML, CSS, php, Mysql",
+                    "info": "Build a Full stack website project HTML, CSS, php, Mysql",
+                    "download": [
+                        "/content/Grade_11/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "Website Development",
+                    "topic": "Build a Full stack website project HTML, CSS, php, Mysql",
+                    "info": "Build a Full stack website project HTML, CSS, php, Mysql",
+                    "download": [
+                        "/content/Grade_11/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "Website Development",
+                    "topic": "Build a Full stack website project HTML, CSS, php, Mysql",
+                    "info": "Build a Full stack website project HTML, CSS, php, Mysql",
+                    "download": [
+                        "/content/Grade_11/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "Website Development",
+                    "topic": "Results & discussions",
+                    "info": "Results & discussions",
+                    "download": [
+                        "/content/Grade_11/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Deploy website on Github",
+                    "info": "Deploy website on Github",
+                    "download": [
+                        "/content/Grade_11/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Deploy website on Github",
+                    "info": "Deploy website on Github",
+                    "download": [
+                        "/content/Grade_11/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Connect github to AWS",
+                    "info": "Connect github to AWS",
+                    "download": [
+                        "/content/Grade_11/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Connect github to AWS",
+                    "info": "Connect github to AWS",
+                    "download": [
+                        "/content/Grade_11/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Results & discussions",
+                    "info": "Results & discussions",
+                    "download": [
+                        "/content/Grade_11/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "Python based data science",
+                    "topic": "Read the gold price data from excel",
+                    "info": "Read the gold price data from excel",
+                    "download": [
+                        "/content/Grade_11/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "Python based data science",
+                    "topic": "Gold rate price prediction",
+                    "info": "Gold rate price prediction",
+                    "download": [
+                        "/content/Grade_11/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "Python based data science",
+                    "topic": "Gold rate price prediction",
+                    "info": "Gold rate price prediction",
+                    "download": [
+                        "/content/Grade_11/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "Python based data science",
+                    "topic": "Gold rate price prediction",
+                    "info": "Gold rate price prediction",
+                    "download": [
+                        "/content/Grade_11/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "Python based data science",
+                    "topic": "Results & discussions",
+                    "info": "Results & discussions",
+                    "download": [
+                        "/content/Grade_11/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "Python based data science",
+                    "topic": "Results & discussions",
+                    "info": "Results & discussions",
+                    "download": [
+                        "/content/Grade_11/32/32.pdf"
+                    ]
+                },
+                {
+                    "week": 33,
+                    "subject": "Aerospace",
+                    "topic": "Introduction to Aerospace",
+                    "info": "Introduction to Aerospace",
+                    "download": [
+                        "/content/Grade_11/33/33.pdf"
+                    ]
+                },
+                {
+                    "week": 34,
+                    "subject": "Aerospace",
+                    "topic": "Introduction to Aerospace",
+                    "info": "Introduction to Aerospace",
+                    "download": [
+                        "/content/Grade_11/34/34.pdf"
+                    ]
+                },
+                {
+                    "week": 35,
+                    "subject": "Aerospace",
+                    "topic": "Introduction to flight",
+                    "info": "Introduction to flight",
+                    "download": [
+                        "/content/Grade_11/35/35.pdf"
+                    ]
+                },
+                {
+                    "week": 36,
+                    "subject": "Aerospace",
+                    "topic": "Introduction to flight",
+                    "info": "Introduction to flight",
+                    "download": [
+                        "/content/Grade_11/36/36.pdf"
+                    ]
+                },
+                {
+                    "week": 37,
+                    "subject": "Aerospace",
+                    "topic": "Design and assembly of drones",
+                    "info": "Design and assembly of drones",
+                    "download": [
+                        "/content/Grade_11/37/37.pdf"
+                    ]
+                },
+                {
+                    "week": 38,
+                    "subject": "Aerospace",
+                    "topic": "Design and assembly of drones",
+                    "info": "Design and assembly of drones",
+                    "download": [
+                        "/content/Grade_11/38/38.pdf"
+                    ]
+                },
+                {
+                    "week": 39,
+                    "subject": "Aerospace",
+                    "topic": "Design and assembly of drones",
+                    "info": "Design and assembly of drones",
+                    "download": [
+                        "/content/Grade_11/39/39.pdf"
+                    ]
+                },
+                {
+                    "week": 40,
+                    "subject": "Aerospace",
+                    "topic": "Design and assembly of drones",
+                    "info": "Design and assembly of drones",
+                    "download": [
+                        "/content/Grade_11/40/40.pdf"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "grade": "Grade_12",
+        "Grade_12": {
+            "weeks": [
+                {
+                    "week": 1,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Discuss startup stories",
+                    "info": "Discuss startup stories",
+                    "download": [
+                        "/content/Grade_12/1/1.pdf"
+                    ]
+                },
+                {
+                    "week": 2,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Explore a real world problem - AI-IoT related",
+                    "info": "Explore a real world problem - AI-IoT related",
+                    "download": [
+                        "/content/Grade_12/2/2.pdf"
+                    ]
+                },
+                {
+                    "week": 3,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Create a presentation on potential solutions",
+                    "info": "Create a presentation on potential solutions",
+                    "download": [
+                        "/content/Grade_12/3/3.pdf"
+                    ]
+                },
+                {
+                    "week": 4,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Create a presentation on target audience total available market",
+                    "info": "Create a presentation on target audience total available market",
+                    "download": [
+                        "/content/Grade_12/4/4.pdf"
+                    ]
+                },
+                {
+                    "week": 5,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Create a startup pitch deck",
+                    "info": "Create a startup pitch deck",
+                    "download": [
+                        "/content/Grade_12/5/5.pdf"
+                    ]
+                },
+                {
+                    "week": 6,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Discuss the pitch deck",
+                    "info": "Discuss the pitch deck",
+                    "download": [
+                        "/content/Grade_12/6/6.pdf"
+                    ]
+                },
+                {
+                    "week": 7,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_12/7/7.pdf"
+                    ]
+                },
+                {
+                    "week": 8,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_12/8/8.pdf"
+                    ]
+                },
+                {
+                    "week": 9,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_12/9/9.pdf"
+                    ]
+                },
+                {
+                    "week": 10,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_12/10/10.pdf"
+                    ]
+                },
+                {
+                    "week": 11,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_12/11/11.pdf"
+                    ]
+                },
+                {
+                    "week": 12,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_12/12/12.pdf"
+                    ]
+                },
+                {
+                    "week": 13,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_12/13/13.pdf"
+                    ]
+                },
+                {
+                    "week": 14,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Build the prototype",
+                    "info": "Build the prototype",
+                    "download": [
+                        "/content/Grade_12/14/14.pdf"
+                    ]
+                },
+                {
+                    "week": 15,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Create a video presentation on the product",
+                    "info": "Create a video presentation on the product",
+                    "download": [
+                        "/content/Grade_12/15/15.pdf"
+                    ]
+                },
+                {
+                    "week": 16,
+                    "subject": "AI integrated IoT - Startup Ideation",
+                    "topic": "Approach for startup funding",
+                    "info": "Approach for startup funding",
+                    "download": [
+                        "/content/Grade_12/16/16.pdf"
+                    ]
+                },
+                {
+                    "week": 17,
+                    "subject": "Website Development",
+                    "topic": "Build a website for your startup idea",
+                    "info": "Build a website for your startup idea",
+                    "download": [
+                        "/content/Grade_12/17/17.pdf"
+                    ]
+                },
+                {
+                    "week": 18,
+                    "subject": "Website Development",
+                    "topic": "Build a website for your startup idea",
+                    "info": "Build a website for your startup idea",
+                    "download": [
+                        "/content/Grade_12/18/18.pdf"
+                    ]
+                },
+                {
+                    "week": 19,
+                    "subject": "Website Development",
+                    "topic": "Build a website for your startup idea",
+                    "info": "Build a website for your startup idea",
+                    "download": [
+                        "/content/Grade_12/19/19.pdf"
+                    ]
+                },
+                {
+                    "week": 20,
+                    "subject": "Website Development",
+                    "topic": "Build a website for your startup idea",
+                    "info": "Build a website for your startup idea",
+                    "download": [
+                        "/content/Grade_12/20/20.pdf"
+                    ]
+                },
+                {
+                    "week": 21,
+                    "subject": "Website Development",
+                    "topic": "Results & discussions",
+                    "info": "Results & discussions",
+                    "download": [
+                        "/content/Grade_12/21/21.pdf"
+                    ]
+                },
+                {
+                    "week": 22,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Introduction to CICD in DevOps",
+                    "info": "Introduction to CICD in DevOps",
+                    "download": [
+                        "/content/Grade_12/22/22.pdf"
+                    ]
+                },
+                {
+                    "week": 23,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Introduction to CICD in DevOps",
+                    "info": "Introduction to CICD in DevOps",
+                    "download": [
+                        "/content/Grade_12/23/23.pdf"
+                    ]
+                },
+                {
+                    "week": 24,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "AWS - web deployment",
+                    "info": "AWS - web deployment",
+                    "download": [
+                        "/content/Grade_12/24/24.pdf"
+                    ]
+                },
+                {
+                    "week": 25,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "AWS - web deployment",
+                    "info": "AWS - web deployment",
+                    "download": [
+                        "/content/Grade_12/25/25.pdf"
+                    ]
+                },
+                {
+                    "week": 26,
+                    "subject": "Introduction to AWS & Cloud computing",
+                    "topic": "Results & discussions",
+                    "info": "Results & discussions",
+                    "download": [
+                        "/content/Grade_12/26/26.pdf"
+                    ]
+                },
+                {
+                    "week": 27,
+                    "subject": "Python based data science",
+                    "topic": "Take sales data of e-commerce website",
+                    "info": "Take sales data of e-commerce website",
+                    "download": [
+                        "/content/Grade_12/27/27.pdf"
+                    ]
+                },
+                {
+                    "week": 28,
+                    "subject": "Python based data science",
+                    "topic": "Predict sales time and day wise",
+                    "info": "Predict sales time and day wise",
+                    "download": [
+                        "/content/Grade_12/28/28.pdf"
+                    ]
+                },
+                {
+                    "week": 29,
+                    "subject": "Python based data science",
+                    "topic": "Predict sales time and day wise",
+                    "info": "Predict sales time and day wise",
+                    "download": [
+                        "/content/Grade_12/29/29.pdf"
+                    ]
+                },
+                {
+                    "week": 30,
+                    "subject": "Python based data science",
+                    "topic": "Plot variations",
+                    "info": "Plot variations",
+                    "download": [
+                        "/content/Grade_12/30/30.pdf"
+                    ]
+                },
+                {
+                    "week": 31,
+                    "subject": "Python based data science",
+                    "topic": "Discuss variations",
+                    "info": "Discuss variations",
+                    "download": [
+                        "/content/Grade_12/31/31.pdf"
+                    ]
+                },
+                {
+                    "week": 32,
+                    "subject": "Python based data science",
+                    "topic": "Results & discussions",
+                    "info": "Results & discussions",
+                    "download": [
+                        "/content/Grade_12/32/32.pdf"
+                    ]
+                },
+                {
+                    "week": 33,
+                    "subject": "Aeromodelling",
+                    "topic": "Introduction to Fixed wing airplane",
+                    "info": "Introduction to Fixed wing airplane",
+                    "download": [
+                        "/content/Grade_12/33/33.pdf"
+                    ]
+                },
+                {
+                    "week": 34,
+                    "subject": "Aeromodelling",
+                    "topic": "Introduction to Fixed wing airplane",
+                    "info": "Introduction to Fixed wing airplane",
+                    "download": [
+                        "/content/Grade_12/34/34.pdf"
+                    ]
+                },
+                {
+                    "week": 35,
+                    "subject": "Aeromodelling",
+                    "topic": "Design and assembly Balsa based Fixed-wing aircraft",
+                    "info": "Design and assembly Balsa based Fixed-wing aircraft",
+                    "download": [
+                        "/content/Grade_12/35/35.pdf"
+                    ]
+                },
+                {
+                    "week": 36,
+                    "subject": "Aeromodelling",
+                    "topic": "Design and assembly Balsa based Fixed-wing aircraft",
+                    "info": "Design and assembly Balsa based Fixed-wing aircraft",
+                    "download": [
+                        "/content/Grade_12/36/36.pdf"
+                    ]
+                },
+                {
+                    "week": 37,
+                    "subject": "Aeromodelling",
+                    "topic": "Design and assembly Balsa based Fixed-wing aircraft",
+                    "info": "Design and assembly Balsa based Fixed-wing aircraft",
+                    "download": [
+                        "/content/Grade_12/37/37.pdf"
+                    ]
+                },
+                {
+                    "week": 38,
+                    "subject": "Aeromodelling",
+                    "topic": "Design and assembly Balsa based Fixed-wing aircraft",
+                    "info": "Design and assembly Balsa based Fixed-wing aircraft",
+                    "download": [
+                        "/content/Grade_12/38/38.pdf"
+                    ]
+                },
+                {
+                    "week": 39,
+                    "subject": "Aeromodelling",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_12/39/39.pdf"
+                    ]
+                },
+                {
+                    "week": 40,
+                    "subject": "Aeromodelling",
+                    "topic": "Results & Discussions",
+                    "info": "Results & Discussions",
+                    "download": [
+                        "/content/Grade_12/40/40.pdf"
+                    ]
+                }
+            ]
+        }
+    }
+]

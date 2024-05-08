@@ -1,0 +1,18 @@
+.body_cont{
+    padding: 0;
+    margin: 0;
+}
+
+.component_cont{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 15vh;
+    left: 20vw;
+    transform: scale(1.5);
+}
+
+.component_cont>h1{
+    font-size: 2vw;
+    width: 80%;
+}
